@@ -30,7 +30,7 @@ h1 {
     grid-column-end: 3;
     color: rgb(99, 169, 231);
     font-size: 48pt;
-    font-family: 'Urbanist', sans-serif;
+    font-family: 'Regular 400 italic', sans-serif;
   
     background-image: rgb(44,135,10,0.55)
     background-repeat: no-repeat;
@@ -62,7 +62,7 @@ ul:before {
     font-family: 'Permanent Marker', cursive;
     color: rgb(28, 33, 0);
     background-color: rgba(253, 238, 78, 0.55);
-    font-size: 28pt;
+    font-size: 23pt;
 }
 
 li {
