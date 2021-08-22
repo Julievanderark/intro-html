@@ -49,7 +49,7 @@ img {
     margin: 50px;
 }
 
-ul {
+first-ul {
     list-style-type: none;
     grid-row-start: 2;
     grid-column-start: 3;
@@ -57,7 +57,7 @@ ul {
     font-size: 14pt;
 } 
 
-ul:before {
+first-ul:before {
     content: 'Quick links';
     font-family: 'Caveat', cursive;
     color: rgb(18, 6, 108);
