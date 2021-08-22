@@ -81,14 +81,14 @@ h2 {
     background-position: 0 100%;
     transition: background-size 0.25s ease-in;    
     
-second-ul {
+.first-ul {
     list-style-type: none;
     grid-row-start: 7;
     grid-column-start: 6;
     width: 200px;
     font-size: 14pt;
 } 
-second-ul:before {
+first-ul:before {
     
     font-family: 'Permanent Marker', cursive;
     color: rgb(225, 25, 25);
