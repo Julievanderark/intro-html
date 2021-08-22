@@ -1,8 +1,8 @@
-@import url('https://images.app.goo.gl/87b5dPXbdr1cuQui7');
+
 
 body {
     background: #e9e9e9;
-    background-image: url('websitefoto.jpg');
+    background-image: 'websitefoto.jpg';
     background-size: cover;
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
