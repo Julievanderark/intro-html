@@ -70,8 +70,8 @@ li {
 }
 h2 {
     grid-row-start: 3;
-    grid-column-start: 3;
-    grid-column-end: 5;
+    grid-column-start: 2;
+    grid-column-end: 3;
     color: rgb(216, 233, 248);
     font-size: 48pt;
     font-family: 'Regular 400 italic', sans-serif;
