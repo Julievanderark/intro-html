@@ -83,8 +83,8 @@ h2 {
     
 .first-ul {
     list-style-type: none;
-    grid-row-start: 7;
-    grid-column-start: 6;
+    grid-row-start: 5;
+    grid-column-start: 2;
     width: 200px;
     font-size: 14pt;
 } 
