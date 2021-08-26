@@ -57,11 +57,11 @@ ul {
 } 
 
 ul:before {
-    content: 'Quick links';
+    
     font-family: 'Caveat', cursive;
     color: rgb(18, 6, 108);
     
-    font-size: 23pt;
+    font-size: 23pt; -->
 }
 
 li {
